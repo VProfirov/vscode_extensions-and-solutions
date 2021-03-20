@@ -13,3 +13,9 @@
     # have option to clear the commented/old/substituted projects
 #-------Future Direction (automated)----
 # 4. Add a form of watch* functionality, or a small server, or a service (pro/con it first)
+
+
+#!/usr/bin/env bash
+
+cd ..
+cat *.sln
